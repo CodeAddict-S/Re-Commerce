@@ -153,7 +153,7 @@ EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = "alijevsam@gmail.com"
-EMAIL_HOST_PASSWORD = "uyve pmyf olct smvh"
+EMAIL_HOST_PASSWORD = "xxxx xxxx xxxx"
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
 AUTH_USER_MODEL = "users.User"
